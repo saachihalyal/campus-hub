@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 <<<<<<< HEAD
 import "./App.css";
-import { Calendar, Users, Trophy, Plus, QrCode, Settings, User, Bell, Star } from "lucide-react";
+import { Calendar, Users, Trophy, Plus, QrCode, Settings, User, Bell, Star , Award, QrCode} from "lucide-react";
 
 function App() {
   // === DATA (Jain College events from your screenshot + more) ===
